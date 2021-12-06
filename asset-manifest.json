@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restaurante/static/css/main.a0245d05.chunk.css",
+    "main.js": "/restaurante/static/js/main.d127d4f4.chunk.js",
+    "main.js.map": "/restaurante/static/js/main.d127d4f4.chunk.js.map",
+    "runtime-main.js": "/restaurante/static/js/runtime-main.e623051f.js",
+    "runtime-main.js.map": "/restaurante/static/js/runtime-main.e623051f.js.map",
+    "static/js/2.93b74eba.chunk.js": "/restaurante/static/js/2.93b74eba.chunk.js",
+    "static/js/2.93b74eba.chunk.js.map": "/restaurante/static/js/2.93b74eba.chunk.js.map",
+    "index.html": "/restaurante/index.html",
+    "static/css/main.a0245d05.chunk.css.map": "/restaurante/static/css/main.a0245d05.chunk.css.map",
+    "static/js/2.93b74eba.chunk.js.LICENSE.txt": "/restaurante/static/js/2.93b74eba.chunk.js.LICENSE.txt",
+    "static/media/Testimonials-component.module.css": "/restaurante/static/media/bg-pattern-quotation.b1b6266a.svg",
+    "static/media/foto1@2x.fe297d4c.png": "/restaurante/static/media/foto1@2x.fe297d4c.png",
+    "static/media/Our-Proposal.module.css": "/restaurante/static/media/foto2@2x.d2975200.png",
+    "static/media/Events-component.module.css": "/restaurante/static/media/foto3@2x.4230ebe8.png",
+    "static/media/foto4@2x.842a367b.png": "/restaurante/static/media/foto4@2x.842a367b.png",
+    "static/media/logo@2x.19346a6c.png": "/restaurante/static/media/logo@2x.19346a6c.png",
+    "static/media/menu1@2x.f1dd020d.png": "/restaurante/static/media/menu1@2x.f1dd020d.png",
+    "static/media/menu2@2x.9df5134e.png": "/restaurante/static/media/menu2@2x.9df5134e.png",
+    "static/media/menu3@2x.e18147bd.png": "/restaurante/static/media/menu3@2x.e18147bd.png",
+    "static/media/menu4@2x.9c53f9e8.png": "/restaurante/static/media/menu4@2x.9c53f9e8.png",
+    "static/media/menu@2x.eb77861f.png": "/restaurante/static/media/menu@2x.eb77861f.png",
+    "static/media/personal1@2x.09896a53.png": "/restaurante/static/media/personal1@2x.09896a53.png",
+    "static/media/personal2@2x.dcbe3232.png": "/restaurante/static/media/personal2@2x.dcbe3232.png",
+    "static/media/personal3@2x.448ea17f.png": "/restaurante/static/media/personal3@2x.448ea17f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e623051f.js",
+    "static/js/2.93b74eba.chunk.js",
+    "static/css/main.a0245d05.chunk.css",
+    "static/js/main.d127d4f4.chunk.js"
+  ]
+}
